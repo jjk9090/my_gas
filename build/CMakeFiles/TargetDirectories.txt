@@ -1,0 +1,3 @@
+/home/jjk/project/my_gas/build/CMakeFiles/rebuild_cache.dir
+/home/jjk/project/my_gas/build/CMakeFiles/edit_cache.dir
+/home/jjk/project/my_gas/build/CMakeFiles/as-new.dir

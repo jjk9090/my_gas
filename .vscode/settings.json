@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "output-file.h": "c",
+        "as.h": "c",
+        "obj-elf.h": "c",
+        "input-file.h": "c",
+        "config.h": "c",
+        "functional": "c"
+    },
+    "C_Cpp.errorSquiggles": "disabled",
+}
